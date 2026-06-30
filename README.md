@@ -1,4 +1,4 @@
-# CPE C++ Lab Assignments
+# CPE 121 Lab Assignments
 **Department of Computer Engineering — University of Uyo**  
 **2025/2026 Academic Session**
 
